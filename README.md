@@ -1,6 +1,6 @@
 # Wordie
 
-This is a simple word game I wrote while learning Java in 2013.
+A simple word game I wrote while learning Java in 2013.
 
 # MIT License (MIT)
 

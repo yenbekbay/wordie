@@ -1,0 +1,16 @@
+.idea/workspace.xml
+out/production/Wordie/kz/yenbekbay/Wordie/Box/Ball.class
+out/production/Wordie/kz/yenbekbay/Wordie/Box/GameObject.class
+out/production/Wordie/kz/yenbekbay/Wordie/Box/Graphics2DRenderer.class
+out/production/Wordie/kz/yenbekbay/Wordie/GameState/GameOverState.class
+out/production/Wordie/kz/yenbekbay/Wordie/GameState/GameState.class
+out/production/Wordie/kz/yenbekbay/Wordie/GameState/MenuState.class
+out/production/Wordie/kz/yenbekbay/Wordie/GameState/PauseState.class
+out/production/Wordie/kz/yenbekbay/Wordie/GameState/PlayState.class
+out/production/Wordie/kz/yenbekbay/Wordie/GameState/Popup.class
+out/production/Wordie/kz/yenbekbay/Wordie/Main/BoxWorld.class
+out/production/Wordie/kz/yenbekbay/Wordie/Main/GameFrame$1.class
+out/production/Wordie/kz/yenbekbay/Wordie/Main/GameFrame.class
+out/production/Wordie/kz/yenbekbay/Wordie/Main/StateManager$1.class
+out/production/Wordie/kz/yenbekbay/Wordie/Main/StateManager.class
+out/production/Wordie/kz/yenbekbay/Wordie/Main/Word.class

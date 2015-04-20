@@ -4,7 +4,7 @@ This is a simple word game I wrote while learning Java in 2013.
 
 # MIT License (MIT)
 
-Copyright (c) 2015 Ayan Yenbekbay
+Copyright (c) 2013 Ayan Yenbekbay
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal

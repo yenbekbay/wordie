@@ -2,6 +2,7 @@
 
 A simple word game I wrote while learning Java in 2013.
 
+![Preview](https://raw.githubusercontent.com/yenbekbay/wordie/master/preview.png)
 # MIT License (MIT)
 
 Copyright (c) 2013 Ayan Yenbekbay

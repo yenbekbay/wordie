@@ -1,8 +1,8 @@
-# Wordie [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/yenbekbay/wordie/master/LICENSE)
+<img src=".github/hero.png" width="250">
 
 A simple word game I wrote while learning Java in 2013.
 
-![Demo](.github/demo.gif)
+<img src=".github/demo.gif" width="320">
 
 ## License
 
